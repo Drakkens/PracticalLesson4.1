@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practical Lesson 4.1</string>
+
+    <string-array name="spinner_values">
+        <item>Work</item>
+        <item>Home</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
